@@ -1,0 +1,24 @@
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\obj\Debug\TextEditor.pdb
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\obj\Debug\TextEditor.AW_Editor_MainForm.resources
+C:\Users\ahmaabow100\source\repos\dvgb07\TextEditor\obj\Debug\TextEditor.MessageBox_V2_form.resources
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\bin\Debug\TextEditor.exe.config
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\bin\Debug\TextEditor.exe
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\bin\Debug\TextEditor.pdb
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\obj\Debug\TextEditor.csproj.AssemblyReference.cache
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\obj\Debug\TextEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\obj\Debug\TextEditor.AW_Editor_MainForm.resources
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\obj\Debug\TextEditor.MessageBox_V2_form.resources
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\obj\Debug\TextEditor.Properties.Resources.resources
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\obj\Debug\TextEditor.csproj.GenerateResource.cache
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\obj\Debug\TextEditor.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\obj\Debug\TextEditor.exe
+C:\Users\Ahmad\Documents\Visual Studio 2022\repos\dvgb07\TextEditor\obj\Debug\TextEditor.pdb
